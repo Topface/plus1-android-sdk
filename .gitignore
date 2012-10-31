@@ -7,3 +7,4 @@
 *.properties
 *.settings
 *.iml
+sdk/bin
