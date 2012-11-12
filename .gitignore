@@ -7,5 +7,5 @@
 *.properties
 *.settings
 *.iml
-sdk/bin
-sdk/gen
+sdk/bin/
+sdk/gen/
